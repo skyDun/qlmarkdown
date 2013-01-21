@@ -15,5 +15,5 @@ char* convert_markdown_to_string(const char *str)
     else
         out[sz - 1] = 0;
     
-    return out
+    return out;
 }
